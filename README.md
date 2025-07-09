@@ -2,6 +2,10 @@
 
 Proje kripto para piyasalarını analiz etmek için geliştirilmiş, CoinGecko API'si üzerinden anlık fiyat verileri, hacim bilgileri, piyasa değeri istatistikleri ve tarihsel performans metriklerini sunan kapsamlı bir kripto veri platformudur.
 
+
+![Proje Görseli](/public/crypto_place.gif)  
+
+
 ## 📜 Genel Bakış
 - **Gerçek zamanlı veri akışı**: 5000+ kripto para birimi için saniyelik güncellemeler
 - **Modüler mimari**: Bağımsız çalışan component yapısıyla kolay genişletilebilirlik
